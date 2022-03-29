@@ -1,0 +1,16 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "A node basics console app",
+  "main": "app.js",
+  "scripts": {
+    "example": "node app --b 6 --listar --until 20",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jc figueroa",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.4.0"
+  }
+}
